@@ -1,0 +1,14 @@
+* {
+    line-height: 30px;
+    background-color: antiquewhite;
+    color: coral;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color:crimson;
+}
+
+.main {
+    text-align: center;
+}
